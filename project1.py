@@ -1,13 +1,3 @@
-# list of questions
-# store the answers
-# randomly pick questions
-# ask the questions
-# see if they are correct
-# keep track of the score
-# tell the user their score
-
-
-
 questions = {
     "What is the keyword to define a function in Python?": "def",
     "Which data type is used to store True or False values?": "boolean",
